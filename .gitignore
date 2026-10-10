@@ -1,0 +1,6 @@
+# Yerel loglar ve geçici dosyalar
+yama.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
